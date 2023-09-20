@@ -1,0 +1,372 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - valheim_server (8/29/2023 5:51:54 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2103 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2020.3.45.6687953
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 5 plugins to load
+[Info   :   BepInEx] Loading [InfiniteTorches 0.0.1]
+[Info   :   BepInEx] Loading [Jotunn 2.12.7]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Initializing UndoManager
+[Info   :    Jotunn] Jötunn v2.12.7 loaded successfully
+[Info   :   BepInEx] Loading [Digitalroot Max Dungeon Rooms 2.0.21]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.1]
+[Info   :   BepInEx] Loading [OdinHorse 1.2.5]
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:42: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Message:   BepInEx] Chainloader startup complete
+[Warning: Unity Log] 09/19/2023 22:46:43: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 09/19/2023 22:46:43: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Info   : Unity Log] 09/19/2023 22:46:43: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:49: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Get create world SKAGTIME
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Using environment steamid 892970
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Using steam APPID:892970
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Server ID 90071992547409920
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Authentication:k_ESteamNetworkingAvailability_Waiting
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Steam game server initialized
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Using default prefs
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Valheim version: 0.217.14 (network version 12)
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Worldgenerator version setup:2
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/19/2023 22:46:50: Render threading mode:SingleThreaded
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Warning: Unity Log] 09/19/2023 22:46:50: Missing audio clip in music respawn
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 09/19/2023 22:46:50: Login postponed until ID has been set.
+
+[Info   : Unity Log] The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+[Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+[Info   : Unity Log] 09/19/2023 22:46:50: Starting music menu
+
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] 09/19/2023 22:46:51: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/19/2023 22:46:51: isModded: True
+
+[Info   : Unity Log] 09/19/2023 22:46:51: Zonesystem Awake 44366
+
+[Info   : Unity Log] 09/19/2023 22:46:51: DungeonDB Awake 44366
+
+[Info   : Unity Log] 09/19/2023 22:46:51: Registering lobby
+
+[Info   : Unity Log] 09/19/2023 22:46:51: PlayFab custom ID set to "PlayFab_My server_2456_daf4205e34c693a65858ef44921de33080342dab"
+
+[Info   : Unity Log] 09/19/2023 22:46:51: Sending PlayFab login request (attempt 2)
+
+[Info   : Unity Log] 09/19/2023 22:46:51: Worldgenerator version setup:2
+
+[Info   : Unity Log] Registered 'OdinHorse ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] 09/19/2023 22:46:52: Audioman already exist, destroying self
+
+[Info   : Unity Log] 09/19/2023 22:46:53: PlayFab logged in as "PlayFab_My server_2456_daf4205e34c693a65858ef44921de33080342dab"
+
+[Info   : Unity Log] 09/19/2023 22:46:53: PlayFab local entity ID is 57522516D400171C
+
+[Info   : Unity Log] 09/19/2023 22:46:53: New session server "My server" that has join code , now 0 player(s)
+
+[Info   : Unity Log] 09/19/2023 22:46:53: Register PlayFab server "My server" with IP 184.155.68.242:2456
+
+[Info   : Unity Log] 09/19/2023 22:46:53: Server 'My server' begin PlayFab create and join network for server 
+
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 09/19/2023 22:46:56: Zonesystem Start 44366
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+
+[Info   : Unity Log] 09/19/2023 22:46:57: DungeonDB Start 44366
+
+[Info   : Unity Log] 09/19/2023 22:46:57: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Load world: SKAGTIME (SKAGTIME)
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Loading 712182 zdos, my sessionID: 366093278, data version: 32
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Creating ZDOs
+
+[Info   : Unity Log] 09/19/2023 22:46:57: Loading in ZDOs
+
+[Info   : Unity Log] 09/19/2023 22:46:58: Adding to Dictionary
+
+[Info   : Unity Log] 09/19/2023 22:46:59: Adding to Sectors
+
+[Info   : Unity Log] 09/19/2023 22:46:59: Connecting Portals, Spawners & ZSyncTransforms
+
+[Info   : Unity Log] ConnectPortals => Connected 24 portals.
+[Info   : Unity Log] ConnectSpawners => Connected 580 spawners and 1820 'done' spawners.
+[Info   : Unity Log] 09/19/2023 22:46:59: Loaded 10137 locations
+
+[Info   : Unity Log] 09/19/2023 22:46:59: Unloading unused assets
+
+[Info   : Unity Log] 09/19/2023 22:46:59: Game server connected
+
+[Info   : Unity Log] 09/19/2023 22:47:01: Joined PlayFab Party network with ID "642aa831-0a6a-48e2-9627-1d4d41791f83|AwAXXOF6gjRxvOdXuUS+DWKTMFAqcFNvdXRoQ2VudHJhbFVzAAAAAAAACXqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrblNkbnMtaXIwLTgxZTUtY2M3NTEyYzQtOTc3OS00ZTViLTg4YjktMWY3M2UyYWVmNWQ1LnNvdXRoY2VudHJhbHVzLmNsb3VkYXBwLmF6dXJlLmNvbQ=="
+
+[Info   : Unity Log] 09/19/2023 22:47:01: Created PlayFab lobby with ID "02e04308-7fe9-4c48-99eb-e1cc521bd2ba.r-20230509", ConnectionString "cv2:02e04308-7fe9-4c48-99eb-e1cc521bd2ba.r-20230509|451107|kv1:y3k6JfPwBU6XhIm4AqJmEtQZ+ZQX364EBTWguyXJuaA=" and owned by "57522516D400171C"
+
+[Info   : Unity Log] 09/19/2023 22:47:01: Session "My server" registered with join code 169822
+
+[Info   : Unity Log] 09/19/2023 22:47:01: Retry join-code check 99
+
+[Info   : Unity Log] 09/19/2023 22:47:03: Session "My server" with join code 169822 and IP 184.155.68.242:2456 is active with 0 player(s)
+
+[Info   : Unity Log] 09/19/2023 22:53:53: Update PlayFab entity token
+
+[Info   : Unity Log] 09/19/2023 22:56:59:  Connections 0 ZDOS:712182  sent:0 recv:0
+
+[Info   : Unity Log] 09/19/2023 22:57:43: Lobby 02e04308-7fe9-4c48-99eb-e1cc521bd2ba.r-20230509 for world 'My server' and network 642aa831-0a6a-48e2-9627-1d4d41791f83|AwAXXOF6gjRxvOdXuUS+DWKTMFAqcFNvdXRoQ2VudHJhbFVzAAAAAAAACXqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrblNkbnMtaXIwLTgxZTUtY2M3NTEyYzQtOTc3OS00ZTViLTg4YjktMWY3M2UyYWVmNWQ1LnNvdXRoY2VudHJhbHVzLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+
+[Info   : Unity Log] 09/19/2023 23:06:59:  Connections 0 ZDOS:712182  sent:0 recv:0
+
+[Info   : Unity Log] 09/19/2023 23:09:31: Lobby 02e04308-7fe9-4c48-99eb-e1cc521bd2ba.r-20230509 for world 'My server' and network 642aa831-0a6a-48e2-9627-1d4d41791f83|AwAXXOF6gjRxvOdXuUS+DWKTMFAqcFNvdXRoQ2VudHJhbFVzAAAAAAAACXqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrblNkbnMtaXIwLTgxZTUtY2M3NTEyYzQtOTc3OS00ZTViLTg4YjktMWY3M2UyYWVmNWQ1LnNvdXRoY2VudHJhbHVzLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+
+[Info   : Unity Log] 09/19/2023 23:09:44: Update PlayFab entity token
+
+[Info   : Unity Log] 09/19/2023 23:16:50: Sending message to save player profiles
+
+[Info   : Unity Log] 09/19/2023 23:16:50: PrepareSave: clone done in 94ms
+
+[Info   : Unity Log] 09/19/2023 23:16:50: PrepareSave: ZDOExtraData.PrepareSave done in 94 ms
+
+[Info   : Unity Log] 09/19/2023 23:16:59:  Connections 0 ZDOS:712182  sent:0 recv:0
+
+[Warning: Unity Log] 09/19/2023 23:18:51: PlayFab network error in session 'My server' and network 642aa831-0a6a-48e2-9627-1d4d41791f83|AwAXXOF6gjRxvOdXuUS+DWKTMFAqcFNvdXRoQ2VudHJhbFVzAAAAAAAACXqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrblNkbnMtaXIwLTgxZTUtY2M3NTEyYzQtOTc3OS00ZTViLTg4YjktMWY3M2UyYWVmNWQ1LnNvdXRoY2VudHJhbHVzLmNsb3VkYXBwLmF6dXJlLmNvbQ== with type 'Error' and code '63': failed to establish or maintain a connection to a network or remote peer
+
+[Info   : Unity Log] 09/19/2023 23:18:51: PlayFab host fast recovery
+
+[Info   : Unity Log] ResetParty
+[Info   : Unity Log] Task: LeaveNetworkTask
+[Info   : Unity Log] Task: CleanPartyTask
+[Info   : Unity Log] Task: InitPartyTask()
+[Info   : Unity Log] Task: JoinPartyTask
+[Info   : Unity Log] 09/19/2023 23:19:03: PlayFab reconnect server 'My server'
+
+[Info   : Unity Log] 09/19/2023 23:19:03: Server 'My server' begin PlayFab create and join network for server 
+
+[Warning: Unity Log] 09/19/2023 23:19:17: Game server disconnected
+
+[Info   : Unity Log] 09/19/2023 23:19:33: PlayFab reconnect server 'My server'
+
+[Info   : Unity Log] 09/19/2023 23:19:33: Server 'My server' begin PlayFab create and join network for server 
+
+[Warning: Unity Log] 09/19/2023 23:19:41: Game server connected failed
+
+[Warning: Unity Log] 09/19/2023 23:20:02: Game server connected failed
+
+[Info   : Unity Log] 09/19/2023 23:20:03: PlayFab reconnect server 'My server'
+
+[Info   : Unity Log] 09/19/2023 23:20:03: Server 'My server' begin PlayFab create and join network for server 
+
+[Info   : Unity Log] 09/19/2023 23:20:29: Game server connected
+
+[Info   : Unity Log] 09/19/2023 23:20:33: PlayFab reconnect server 'My server'
+
+[Info   : Unity Log] 09/19/2023 23:20:33: Server 'My server' begin PlayFab create and join network for server 
+
+[Info   : Unity Log] 09/19/2023 23:20:34: Joined PlayFab Party network with ID "93c8cdb5-6bb8-4836-8191-94316fad7871|AwBYDIs3gTs33Q52O0O0EGjHzRf+WkNlbnRyYWxVcwAAAAAAAAAAAAAAB3qiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk5kbnMtaXIwLTgxZTUtOTk0ZTg3NGMtNGFlZC00MmEwLWE0ZDctZDViMmU5YmIxMmMyLmNlbnRyYWx1cy5jbG91ZGFwcC5henVyZS5jb20="
+
+[Info   : Unity Log] 09/19/2023 23:20:35: Created PlayFab lobby with ID "a498f990-d990-49db-ae88-9ae51c21078e.r-20230509", ConnectionString "cv2:a498f990-d990-49db-ae88-9ae51c21078e.r-20230509|451107|kv1:xVtQb+fLSxc0/F1aouuX7TqTQrrl5k8YoG8Wo0RUFaQ=" and owned by "57522516D400171C"
+
+[Info   : Unity Log] 09/19/2023 23:20:35: Session "My server" registered with join code 169822
+
+[Info   : Unity Log] 09/19/2023 23:20:35: Session "My server" with join code 169822 and IP 184.155.68.242:2456 is active with 0 player(s)
+
+[Warning: Unity Log] 09/19/2023 23:21:21: PlayFab network error in session 'My server' and network 93c8cdb5-6bb8-4836-8191-94316fad7871|AwBYDIs3gTs33Q52O0O0EGjHzRf+WkNlbnRyYWxVcwAAAAAAAAAAAAAAB3qiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk5kbnMtaXIwLTgxZTUtOTk0ZTg3NGMtNGFlZC00MmEwLWE0ZDctZDViMmU5YmIxMmMyLmNlbnRyYWx1cy5jbG91ZGFwcC5henVyZS5jb20= with type 'Error' and code '4295': this device was disconnected from the Party network because it had no authenticated users for an extended period of time
+
+[Info   : Unity Log] ResetParty
+[Info   : Unity Log] Task: CleanPartyTask
+[Info   : Unity Log] Task: InitPartyTask()
+[Info   : Unity Log] 09/19/2023 23:21:51: PlayFab reconnect server 'My server'
+
+[Info   : Unity Log] 09/19/2023 23:21:51: Server 'My server' begin PlayFab create and join network for server 
+
+[Info   : Unity Log] 09/19/2023 23:21:52: Joined PlayFab Party network with ID "64faea10-d255-4c8e-956b-87745434488c|AwCCX89TJ0H9pjkXUUepV1NXhV8sJVdlc3RVcwAAAAAAAAAAAAAAAAAAcHqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbktkbnMtaXIwLTgxZTUtYzc5MTI5MjItODVkYy00ZmNiLWI5MDUtNjJmNjBiM2NkNjY5Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20="
+
+[Info   : Unity Log] 09/19/2023 23:21:53: Created PlayFab lobby with ID "9d284d9e-6066-4b7d-8f87-d783f92ef614.r-20230509", ConnectionString "cv2:9d284d9e-6066-4b7d-8f87-d783f92ef614.r-20230509|451107|kv1:eQATMi+XhPSIeQKkuuPgckZ6ZtJLXrFLW7mWTtohoDQ=" and owned by "57522516D400171C"
+
+[Info   : Unity Log] 09/19/2023 23:21:53: Session "My server" registered with join code 169822
+
+[Info   : Unity Log] 09/19/2023 23:21:53: Created new join code 176311 for session "My server"
+
+[Info   : Unity Log] 09/19/2023 23:21:53: Retry join-code check 99
+
+[Info   : Unity Log] 09/19/2023 23:21:54: Session "My server" with join code 176311 and IP 184.155.68.242:2456 is active with 0 player(s)
+
+[Info   : Unity Log] 09/19/2023 23:24:39: Update PlayFab entity token
+
+[Info   : Unity Log] 09/19/2023 23:26:59:  Connections 0 ZDOS:712182  sent:0 recv:0
+
+[Info   : Unity Log] 09/19/2023 23:31:54: Lobby 9d284d9e-6066-4b7d-8f87-d783f92ef614.r-20230509 for world 'My server' and network 64faea10-d255-4c8e-956b-87745434488c|AwCCX89TJ0H9pjkXUUepV1NXhV8sJVdlc3RVcwAAAAAAAAAAAAAAAAAAcHqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbktkbnMtaXIwLTgxZTUtYzc5MTI5MjItODVkYy00ZmNiLWI5MDUtNjJmNjBiM2NkNjY5Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20= refreshed
+
+[Info   : Unity Log] 09/19/2023 23:36:59:  Connections 0 ZDOS:712182  sent:0 recv:0
+
+[Info   : Unity Log] 09/19/2023 23:41:40: Lobby 9d284d9e-6066-4b7d-8f87-d783f92ef614.r-20230509 for world 'My server' and network 64faea10-d255-4c8e-956b-87745434488c|AwCCX89TJ0H9pjkXUUepV1NXhV8sJVdlc3RVcwAAAAAAAAAAAAAAAAAAcHqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbktkbnMtaXIwLTgxZTUtYzc5MTI5MjItODVkYy00ZmNiLWI5MDUtNjJmNjBiM2NkNjY5Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20= refreshed
+
+[Info   : Unity Log] 09/19/2023 23:44:47: Update PlayFab entity token
+
+[Info   : Unity Log] 09/19/2023 23:46:50: Sending message to save player profiles
+
+[Info   : Unity Log] 09/19/2023 23:46:50: PrepareSave: clone done in 63ms
+
+[Info   : Unity Log] 09/19/2023 23:46:50: PrepareSave: ZDOExtraData.PrepareSave done in 102 ms
+
+[Info   : Unity Log] 09/19/2023 23:46:59: Unloading unused assets
+
+[Info   : Unity Log] 09/19/2023 23:46:59:  Connections 0 ZDOS:712182  sent:0 recv:0
+
+[Info   : Unity Log] 09/19/2023 23:52:38: Lobby 9d284d9e-6066-4b7d-8f87-d783f92ef614.r-20230509 for world 'My server' and network 64faea10-d255-4c8e-956b-87745434488c|AwCCX89TJ0H9pjkXUUepV1NXhV8sJVdlc3RVcwAAAAAAAAAAAAAAAAAAcHqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbktkbnMtaXIwLTgxZTUtYzc5MTI5MjItODVkYy00ZmNiLWI5MDUtNjJmNjBiM2NkNjY5Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20= refreshed
+
+[Info   : Unity Log] 09/19/2023 23:57:00:  Connections 0 ZDOS:712182  sent:0 recv:0
+
+[Info   : Unity Log] 09/20/2023 00:00:42: Update PlayFab entity token
+
+[Info   : Unity Log] 09/20/2023 00:05:29: Game - OnApplicationQuit
+
+[Info   : Unity Log] 09/20/2023 00:05:29: Shuting down
+
+[Info   : Unity Log] 09/20/2023 00:05:29: ZNet Shutdown
+
+[Info   : Unity Log] 09/20/2023 00:05:30: PrepareSave: clone done in 94ms
+
+[Info   : Unity Log] 09/20/2023 00:05:30: PrepareSave: ZDOExtraData.PrepareSave done in 120 ms
+
+[Info   : Unity Log] 09/20/2023 00:05:32: Unloading unused assets
+
+[Info   : Unity Log] 09/20/2023 00:05:32: Sending disconnect msg
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Active
+[Info   : Unity Log] 09/20/2023 00:05:32: Unregister PlayFab server "My server" and leaving network "64faea10-d255-4c8e-956b-87745434488c|AwCCX89TJ0H9pjkXUUepV1NXhV8sJVdlc3RVcwAAAAAAAAAAAAAAAAAAcHqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbktkbnMtaXIwLTgxZTUtYzc5MTI5MjItODVkYy00ZmNiLWI5MDUtNjJmNjBiM2NkNjY5Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20="
+
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: LISTEN
+[Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId: 
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+[Info   : Unity Log] 09/20/2023 00:05:32: Stopping build thread
+
